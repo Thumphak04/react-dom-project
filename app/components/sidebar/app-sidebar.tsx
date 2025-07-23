@@ -4,7 +4,6 @@ import {
   BookOpen,
   Bot,
   Command,
-  Frame,
   GalleryVerticalEnd,
   SquareTerminal,
 } from "lucide-react"
